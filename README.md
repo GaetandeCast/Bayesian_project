@@ -3,7 +3,7 @@
 
 ## Extention to the two other datasets
 
-To obtain the results on the two unused datasets, run `extension.py`, with python 3 and the packages included in requirements.txt.
+To obtain the results on the two unused datasets, run `extension.py`, with python 3 and the packages included in requirements.txt. This is based on the original code of the article, found at https://github.com/mlresearch/v161/blob/gh-pages/jerfel21a/jerfel21a-supp.zip.
 
 ## Experiment on a Cauchy distribution
 
